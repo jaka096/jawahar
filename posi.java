@@ -1,5 +1,5 @@
 import java.util.*;
-class pos
+class posi
 {
  public static void main(String arg[])
  {
@@ -10,7 +10,8 @@ class pos
   {
   System.out.print("positive");
   }else if(a<0)
-  {System.out.print("negative");
+  {
+   System.out.print("negative");
   }else 
   {System.out.print("zero");}
   }
